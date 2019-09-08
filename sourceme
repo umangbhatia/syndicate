@@ -1,0 +1,13 @@
+conda install flask
+conda install pyaudio
+conda install scipy.misc
+conda install numpy
+conda install opencv
+conda install scipy
+conda install IPython
+conda install tensorflow
+conda install keras
+conda install sklearn
+conda install scikit-learn
+conda install scipy
+conda install matplotlib
